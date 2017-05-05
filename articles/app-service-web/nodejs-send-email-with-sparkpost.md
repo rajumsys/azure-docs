@@ -42,7 +42,7 @@ For more information about SparkPost, visit [https://sparkpost.com](https://spar
 SparkPost provides 100K free emails per month including access to APIs and analytics. This free account is enough to get started. However, feel free to choose [appropriate package][sparkpost packages] based on your sending volume requirements.
 
 
-### To sign up for a SendGrid account
+### To sign up for a SparkPost account
 1. Log in to the [Azure Management Portal][Azure Management Portal].
 1. In the menu on the left, click **New**.
 1. Enter `sparkpost` in the **Search the marketplace** field and click on **SparkPost** in result. It'll show search results with SparkPost
@@ -86,7 +86,7 @@ SparkPost provides 100K free emails per month including access to APIs and analy
 [sparkpost-resource-key-mgt]: ../../includes/media/sparkpost/sparkpost-resource-key-management.png
 <!--Links-->
 [sparkpost packages]:  (https://azuremarketplace.microsoft.com/en-us/marketplace/apps/sparkpost.sparkpost?tab=PlansAndPrice
-[Azure Management Portal]: https://manage.windowsazure.com
+[Azure Management Portal]: https://portal.azure.com
 
 
 -----------------------
